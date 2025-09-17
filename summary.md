@@ -88,6 +88,4 @@ PX4 ──MAVLink──> MAVSDK
 * **Vision:** “What objects are around me, and where are they on the map?” → `/scene` & `/history` (with `estimated_global`).
 * **Controller:** “Go there, circle it, take a look, and come back.” → `goto`, `orbit`, `look_*`, `rtl`.
 
-If you want this even shorter (for a repo header), say:
-**Sensors (8001) → Vision (8088) → Controller (REPL).**
-Vision depends on Sensors; Controller uses Vision outputs to decide where to fly.
+
