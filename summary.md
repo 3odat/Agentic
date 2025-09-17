@@ -1,6 +1,5 @@
-Here’s the tight, no-fluff summary you asked for—what each file is, its API/commands, and how they plug together.
-
-# Files at a glance
+# SUMMARY OF OUR AGENT ACCESSABLE INFORMATION
+## Files at a glance
 
 ## 1) `internal_latest.py` — **Sensors Service**
 
